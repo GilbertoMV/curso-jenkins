@@ -1,1 +1,2 @@
-echo "Hola desde github pa (probando los scrips SCM)"
+echo "Hola desde github pa"
+echo "Hola desde github con los triggers"
